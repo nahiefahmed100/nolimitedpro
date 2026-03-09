@@ -1,1 +1,4 @@
 
+{
+  "authorized_users": ["user_001", "user_002", "customer_xyz"]
+}
