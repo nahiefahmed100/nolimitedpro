@@ -1,4 +1,6 @@
-
 {
-  "authorized_users": ["user_001", "user_002", "customer_xyz"]
+  "authorized_users": [
+    { "id": "user_001", "expiry": "2026-12-31", "status": "active" },
+    { "id": "user_002", "expiry": "2026-05-10", "status": "active" }
+  ]
 }
