@@ -1,6 +1,6 @@
 {
   "settings": {
-    "all_off": true
+    "all_off": false
   },
   "authorized_users": [
     {
